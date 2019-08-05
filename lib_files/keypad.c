@@ -1,10 +1,3 @@
-/*
- * keypad.c
- *
- * Created: 20-02-2019 02:27:28 PM
- *  Author: TrailBlazer
- */ 
-
 #include "keypad.h"
 #include "delay.h"
 #include "gpio.h"
