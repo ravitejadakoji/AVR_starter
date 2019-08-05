@@ -1,11 +1,3 @@
-/*
- * lcd.c
- *
- * Created: 20-02-2019 05:29:41 PM
- *  Author: TrailBlazer
- */ 
-
-
 #include <stdarg.h>
 #include "delay.h"
 #include "lcd.h"
