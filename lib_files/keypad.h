@@ -1,11 +1,3 @@
-/*
- * keypad.h
- *
- * Created: 20-02-2019 02:25:19 PM
- *  Author: TrailBlazer
- */ 
-
-
 #ifndef KEYPAD_H_
 #define KEYPAD_H_
 
@@ -37,4 +29,4 @@ void KEYPAD_Init(
         gpioPins_et col_2,
         gpioPins_et col_3);
 
-#endif /* KEYPAD_H_ */
+#endif
