@@ -1,10 +1,3 @@
-/*
- * i2c.c
- *
- * Created: 20-02-2019 02:13:51 PM
- *  Author: TrailBlazer
- */ 
-
 #include <avr/io.h>
 #include "i2c.h"
 #include "delay.h"
