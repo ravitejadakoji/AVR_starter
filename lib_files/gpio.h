@@ -1,11 +1,3 @@
-/*
- * gpio.h
- *
- * Created: 20-02-2019 01:42:03 PM
- *  Author: TrailBlazer
- */ 
-
-
 #ifndef GPIO_H_
 #define GPIO_H_
 
@@ -31,4 +23,4 @@ void GPIO_PinDir(gpioPins_et enm_pinNum, uint8_t var_pinDir);
 void GPIO_PinWrite(gpioPins_et enm_pinNum, uint8_t var_pinVal);
 uint8_t GPIO_PinRead(gpioPins_et enm_pinNum);
 
-#endif /* GPIO_H_ */
+#endif
