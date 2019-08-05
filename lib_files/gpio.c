@@ -1,10 +1,3 @@
-/*
- * gpio.c
- *
- * Created: 20-02-2019 01:46:12 PM
- *  Author: TrailBlazer
- */ 
-
 #include <avr/io.h>
 #include "stdutils.h"
 #include "gpio.h"
