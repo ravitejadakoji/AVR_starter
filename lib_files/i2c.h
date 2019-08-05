@@ -1,11 +1,3 @@
-/*
- * i2c.h
- *
- * Created: 20-02-2019 02:11:50 PM
- *  Author: TrailBlazer
- */ 
-
-
 #ifndef I2C_H_
 #define I2C_H_
 
@@ -26,4 +18,4 @@ uint8_t I2C_Read(uint8_t var_i2cAck);
 
 
 
-#endif /* I2C_H_ */
+#endif
